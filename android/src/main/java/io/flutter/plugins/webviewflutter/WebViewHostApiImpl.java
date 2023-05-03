@@ -22,6 +22,7 @@ import io.flutter.plugins.webviewflutter.WebViewClientHostApiImpl.ReleasableWebV
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
+import android.util.Log;
 
 /**
  * Host api implementation for {@link WebView}.
