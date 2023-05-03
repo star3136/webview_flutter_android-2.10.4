@@ -30,7 +30,7 @@ migrate_working_dir/
 .packages
 .pub-cache/
 .pub/
-/build/
+**/build/
 /lib/generated
 
 # Symbolication related
@@ -44,3 +44,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 pubspec.lock
+.gradle
+local.properties

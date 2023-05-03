@@ -129,7 +129,7 @@ public class WebViewHostApiImpl implements WebViewHostApi {
 
     public void setOverScrollMode(int mode) {
       // fitDesign
-      Log.d("--LEE--", "WebView setOverScrollMode")
+      Log.d("--LEE--", "WebView setOverScrollMode");
       getContext().getResources();
     }
 
